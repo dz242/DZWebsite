@@ -1,1 +1,1 @@
-This is the source ocde for the personal website of Dominik Zmuda
+This is the source code for the personal website of Dominik Zmuda
