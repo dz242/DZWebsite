@@ -10,3 +10,8 @@ body {
     height:256px;
     
 }
+
+#form-container {
+  margin: auto;
+  width: 50%;
+}
